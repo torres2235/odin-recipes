@@ -1,0 +1,1 @@
+This is the first Odin Project Assignment aimed to make use of HTML lessons up to "Links and Images"
