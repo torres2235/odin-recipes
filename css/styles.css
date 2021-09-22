@@ -1,0 +1,33 @@
+*{
+    background-color: #EFD09E;
+}
+
+h1{
+    color: #9AC4F8;
+}
+
+img{
+    width: 650px;
+    height: auto;
+}
+
+.ingredients{
+    font-family: monospace;
+    font-size: 15px;
+    text-align: center;
+}
+
+.steps{
+    font-family: serif;
+    font-size: 15px;
+
+}
+
+h2{
+    font-family: cursive;
+}
+
+.links{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
